@@ -36,8 +36,8 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AppleWOA/m1n1_windows</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">m1n1, but adapted to run windows (aka with a GIC emulator)</div>
@@ -342,7 +342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cutest-design/unnamed-pack</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dunno what it is but it sure is a thing</div>
@@ -389,7 +389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ryujinx/Ryujinx</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Nintendo Switch Emulator written in C#</div>
@@ -442,7 +442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ParadigmMC/mcman</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful Minecraft Server Manager CLI. Easily install jars (server, plugins &amp; mods) and write config files. Docker and git support included.</div>
@@ -492,7 +492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2023, 00:43:50  with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Aug 2023, 00:43:44  with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
